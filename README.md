@@ -3,7 +3,11 @@
 
 The challenge was to recreate the webpage as presented in the mp4 file provided by FrontLoops.
 
-This is a screenshot of my code's output. 
+## Demo
+
+![Farmers Market Finder Demo](https://media.giphy.com/media/igmw5xTqeejwdKbom9/giphy.gif)
+
+## Screenshot
 
 ![Image of Final Code Output](final-product-screenshot.png)
 
